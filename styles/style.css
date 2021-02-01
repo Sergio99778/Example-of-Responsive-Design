@@ -221,3 +221,37 @@ main {
     background-position: center;
     background-repeat: no-repeat;
 }
+.currency-table--date {
+    width: auto;
+    max-width: 300px;
+    height: 31px;
+    margin: 0 auto;
+    margin-top: 15px;
+    padding: 8px;
+    background-color: var(--soft-orange);
+    border-radius: 8px;
+    
+}
+.currency-table--date p {
+    font-family: "Inter", sans-serif;
+    color: var(--warm-black);
+    line-height: 1.5rem;
+    font-size: 1.2rem;
+}
+.commission-table--date {
+    width: auto;
+    max-width: 300px;
+    height: 31px;
+    margin: 0 auto;
+    margin-top: 15px;
+    padding: 8px;
+    background-color: var(--soft-blue);
+    border-radius: 8px;
+    
+}
+.commission-table--date p {
+    font-family: "Inter", sans-serif;
+    color: var(--warm-black);
+    line-height: 1.5rem;
+    font-size: 1.2rem;
+}
