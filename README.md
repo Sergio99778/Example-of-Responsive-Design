@@ -7,5 +7,5 @@
 #### I leave you here a responsive page made with love  ❤️.
 
 #### Objectives
-- Improve respondive desing.
+- Improve responsive desing.
 - Share knowledge
